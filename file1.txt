@@ -5,3 +5,5 @@ nambahin baris baru
 edit file
 
 edit file ketika push ke github
+
+hagimana sih
